@@ -1,4 +1,4 @@
-# Implementação dos Algoritmos de Ordenação: Merge Sort e QuickSort em C++
+# Merge Sort e QuickSort
 
 Este repositório contém implementações dos algoritmos de ordenação **Merge Sort** e **QuickSort** em C++. Ambos são algoritmos eficientes de "divisão e conquista" usados para ordenar vetores. Cada um tem suas características únicas em termos de desempenho e escolha de pivô (no caso do QuickSort).
 
